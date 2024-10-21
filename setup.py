@@ -5,7 +5,7 @@
 #
 # To configure, compile, install, just run this script.
 #     python setup.py install
-
+# whategver
 import platform
 import sysconfig
 
